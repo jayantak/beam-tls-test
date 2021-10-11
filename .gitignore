@@ -1,0 +1,4 @@
+run
+target/
+.idea/
+word-count-beam.iml
